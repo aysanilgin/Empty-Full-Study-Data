@@ -1,0 +1,21 @@
+Participant_ID,Gender,Age,Handedness,Discipline
+P01,Female,41,Right,Engineering
+P02,Female,25,Right,Architecture / Design
+P03,Female,24,Right,Architecture / Design
+P04,Female,28,Right,Architecture / Design
+P05,Male,19,Right,Engineering
+P06,Female,43,Right,Architecture / Design
+P07,Female,24,Right,Architecture / Design
+P08,Female,26,Left,Architecture / Design
+P09,Male,27,Right,Architecture / Design
+P10,Female,19,Right,Engineering
+P11,Female,21,Right,Engineering
+P12,Female,18,Right,Engineering
+P13,Male,20,Right,Engineering
+P14,Male,21,Right,Engineering
+P15,Male,21,Right,Engineering
+P16,Male,20,Left,Architecture / Design
+P17,Male,19,Left,Architecture / Design
+P18,Male,19,Right,Gastronomy
+P19,Male,18,Right,Architecture / Design
+P20,Male,20,Right,Architecture / Design
